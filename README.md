@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I am Maximilian 🚀
+I am a corporate student at [SAP](https://github.com/SAP) and currently I am doing my Bachelor's degree in Business 
+Information Technology.
+My interest vary from mobile development, computer science and data visualization to machine learning and 
+mathematics.
+I like to code in a team and to participate in projects & hackathons.
 
-<!--
-**maximiliantech/maximiliantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📈 My GitHub stats
+[![Maximilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=swift&hide_border=true)](https://github.com/maximiliantech)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=swift&hide_border=false)
+<!-- [![Top Languages on this Account](https://github-readme-stats.vercel.app/api/top-langs/?
+username=maximiliantech&layout=compact&theme=swift)](https://github.com/maximiliantech) -->
