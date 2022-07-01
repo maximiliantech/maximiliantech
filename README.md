@@ -1,5 +1,5 @@
 # Hi, I am Maximilian 🚀
-I am a corporate student at [SAP](https://github.com/SAP) and currently I am doing my Bachelor's degree in Business 
+I am a corporate student at [SAP](https://github.com/SAP). Currently, I am doing my Bachelor's degree in Business 
 Information Technology.
 My interest vary from mobile development, computer science and data visualization to machine learning and 
 mathematics.
