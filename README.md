@@ -1,7 +1,7 @@
 # Hi, I am Maximilian 🚀
 I am a corporate student at [SAP](https://github.com/SAP). Currently, I am doing my Bachelor's degree in Business 
 Information Technology.
-My interest vary from mobile development, computer science and data visualization to machine learning and 
+My interests vary from mobile development, computer science and data visualization to machine learning and 
 mathematics.
 I like to code in a team and to participate in projects & hackathons.
 
