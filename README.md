@@ -16,8 +16,14 @@ I like to code in a team and to participate in projects & hackathons.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📈 My GitHub stats
-[![Maximilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=swift&hide_border=true)](https://github.com/maximiliantech)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=swift&hide_border=false)
+<a href="https://github.com/maximiliantech#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=swift#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=swift&hide_border=false) -->
+
 <!-- [![Top Languages on this Account](https://github-readme-stats.vercel.app/api/top-langs/?
 username=maximiliantech&layout=compact&theme=swift)](https://github.com/maximiliantech) -->
