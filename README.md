@@ -29,10 +29,10 @@ I like to code in a team and to participate in projects & hackathons.
 
 <!-- Dark Mode -->
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=github_dark&hide_border=true&icon_color=386DE3&title_color=6CD064#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&show_icons=true&theme=github_dark&hide_border=true&layout=compact#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&show_icons=true&theme=github_dark&hide_border=true&layout=compact&title_color=6CD064#gh-dark-mode-only" alt="Top Languages" />
 </a>
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
