@@ -16,14 +16,21 @@ I like to code in a team and to participate in projects & hackathons.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📈 My GitHub stats
+<!-- Light mode -->
 <a href="https://github.com/maximiliantech#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=swift#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=light&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
-<a href="https://github.com/maximiliantech#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+<a href="https://github.com/maximiliantech#gh-light-mode-only">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=light&hide_border=false&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=swift&hide_border=false) -->
+<!-- Dark Mode -->
+<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/maximiliantech#gh-dark-mode-only">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
 <!-- [![Top Languages on this Account](https://github-readme-stats.vercel.app/api/top-langs/?
 username=maximiliantech&layout=compact&theme=swift)](https://github.com/maximiliantech) -->
