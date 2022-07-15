@@ -21,10 +21,10 @@ I like to code in a team and to participate in projects & hackathons.
   <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=light&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/maximiliantech#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=light&hide_border=false&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&show_icons=true&theme=light&hide_border=true&layout=compact#gh-light-mode-only" alt="Top Languages" />
 </a>
 <a href="https://github.com/maximiliantech#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&count_private=true&show_icons=true&theme=light&hide_border=true#gh-light-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=light&hide_border=false&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <!-- Dark Mode -->
@@ -32,8 +32,8 @@ I like to code in a team and to participate in projects & hackathons.
   <img src="https://github-readme-stats.vercel.app/api?username=maximiliantech&count_private=true&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&show_icons=true&theme=github_dark&hide_border=true&layout=compact#gh-dark-mode-only" alt="Top Languages" />
 </a>
 <a href="https://github.com/maximiliantech#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliantech&count_private=true&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliantech&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
