@@ -3,7 +3,7 @@ I am a corporate student at [SAP](https://github.com/SAP). Currently, I am doing
 Information Technology.
 My interests vary from mobile development, computer science and data visualization to machine learning and 
 mathematics.
-I like to code in a team and to participate in projects & hackathons.
+I like to code in a team and to participate in projects, coding competitions & hackathons.
 
 # 💻 Tech Stack
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
