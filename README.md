@@ -1,5 +1,5 @@
 # Hi, I am Maximilian 🚀
-I am an Associate Developer at [SAP](https://github.com/SAP). Currently, I am focused on developing intelligent controllers and operators for Kubernetes and Crossplane. 
+I am a Developer Associate at [SAP](https://github.com/SAP). Currently, I am focused on developing intelligent controllers and operators for Kubernetes and Crossplane. 
 My interests vary from mobile development, computer science and data visualization to machine learning and cloud native patterns.
 I like to code in a team and to participate in projects, coding competitions & hackathons.
 
